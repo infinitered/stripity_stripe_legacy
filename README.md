@@ -2,11 +2,11 @@
 
 Why is this here?
 
-This repo exists solely for use by the [cross_connect_sales](https://github.com/infinitered/cross_connect_sales) project. The code contained in this repo was originally a branch in [Daniel's fork of the stripity_stripe package.](https://github.com/danielberkompas/stripity_stripe) Due to changes in stripity_stripe's API, his changes were never merged, and the branch disappeared from Daniel's repo for reasons defying explanation.
+This repo exists solely for use by the cross_connect_sales project. The code contained in this repo was originally a branch in [Daniel's fork of the stripity_stripe package.](https://github.com/danielberkompas/stripity_stripe) Due to changes in stripity_stripe's API, his changes were never merged, and the branch disappeared from Daniel's repo for reasons defying explanation.
 
 Because of the substantial changes in stripity_stripe's API, we still need this snapshot of the package. And since this version of the code is no longer accessible in the repo where it was created, I pulled down the files and created this repo so that future builds will be able to access it.
 
-If you're reading this becuase you're trying to decide if this repo can be deleted or not, take a look at [the current mix.exs file for cross_connect_sales.](https://github.com/infinitered/cross_connect_sales/blob/master/mix.exs) If this repo is no longer referenced in the list of dependencies, you can remove it. Otherwise, it needs to stay.
+If you're reading this becuase you're trying to decide if this repo can be deleted or not, take a look at the current mix.exs file for cross_connect_sales. If this repo is no longer referenced in the list of dependencies, you can remove it. Otherwise, it needs to stay.
 
 
 Original README follows:
